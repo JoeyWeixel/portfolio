@@ -1,4 +1,7 @@
 {
   "name": "portfolio",
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
 }
